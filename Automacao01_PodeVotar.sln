@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automacao01_PodeVotar", "Automacao01_PodeVotar\Automacao01_PodeVotar.csproj", "{BEE2967A-B414-4509-B904-5AC6AD29F14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automacao01_PodeVotar_Test", "Automacao01_PodeVotar_Test\Automacao01_PodeVotar_Test.csproj", "{ED87F21C-1C3B-48B5-8053-7D0C70B7D2F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE2967A-B414-4509-B904-5AC6AD29F14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE2967A-B414-4509-B904-5AC6AD29F14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE2967A-B414-4509-B904-5AC6AD29F14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE2967A-B414-4509-B904-5AC6AD29F14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED87F21C-1C3B-48B5-8053-7D0C70B7D2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED87F21C-1C3B-48B5-8053-7D0C70B7D2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED87F21C-1C3B-48B5-8053-7D0C70B7D2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED87F21C-1C3B-48B5-8053-7D0C70B7D2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
